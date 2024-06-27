@@ -1,1 +1,0 @@
-pip install tkinter Pillow timezonefinder pytz datetime
